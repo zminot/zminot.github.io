@@ -1,4 +1,4 @@
 # Hello!
 My main page for whatever.
 
-Visit [zminot.dev](zminot.dev) to get a view.
+Visit [zminot.dev](https://zminot.dev) to get a view.
